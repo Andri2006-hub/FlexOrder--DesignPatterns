@@ -1,1 +1,18 @@
-# FlexOrder--DesignPatterns
+🧩 FlexOrder - Design Patterns
+
+## 📘 Descrição Geral
+
+O **FlexOrder** é um projeto de refatoração que aplica **padrões de projeto orientados a objetos (GoF)** para transformar um código legado de processamento de pedidos e checkout em uma arquitetura modular, extensível e de fácil manutenção.
+
+A refatoração aborda **problemas clássicos de acoplamento e violação de princípios SOLID**, especialmente o **SRP (Single Responsibility Principle)** e o **OCP (Open-Closed Principle)**, utilizando três padrões:
+
+- 🧠 **Strategy** — para encapsular algoritmos de pagamento e frete.  
+- 🎁 **Decorator** — para adicionar descontos e taxas dinamicamente.  
+- 🧩 **Facade** — para simplificar o fluxo de checkout e orquestrar subsistemas.
+
+---
+
+## 🏗️ Arquitetura Orientada a Objetos
+
+A nova estrutura do sistema foi organizada em módulos independentes, cada um com responsabilidade única e clara.  
+A seguir, a estrutura de diretórios:
