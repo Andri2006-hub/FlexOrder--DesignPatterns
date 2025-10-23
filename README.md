@@ -208,7 +208,7 @@ if __name__ == "__main__":
 
 **Andri Santana**  
 📂 Repositório: [FlexOrder-DesignPatterns](https://github.com/andrisantana07/FlexOrder-DesignPatterns)  
-📧 Contato: *(adicione seu e-mail ou LinkedIn, se quiser)*
+📧 Contato: *(santanaandri310@gmail.com)*
 
 ---
 
